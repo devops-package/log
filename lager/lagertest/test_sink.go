@@ -8,7 +8,7 @@ import (
 	"github.com/onsi/ginkgo"
 	"github.com/onsi/gomega/gbytes"
 
-	"github.com/lexkong/log/lager"
+	"github.com/zxmrlc/log/lager"
 )
 
 type TestLogger struct {
