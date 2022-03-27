@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/zxmrlc/log/lager"
+	"github.com/devops-package/log/lager"
 )
 
 //Entry is a struct

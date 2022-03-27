@@ -5,7 +5,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/zxmrlc/log/lager"
+	"github.com/devops-package/log/lager"
 	"github.com/onsi/ginkgo/config"
 	"github.com/onsi/ginkgo/types"
 )
